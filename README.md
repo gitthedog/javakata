@@ -1,2 +1,3 @@
 # javakata
-solutions to java kata
+Solutions to JS kata.
+
